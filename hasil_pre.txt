@@ -1,0 +1,13 @@
+
+  [30;42;1m PASS [39;49;22m[39m Tests\Feature\Common\ItemsTest[39m
+  [32;1m✓[39;22m[90m [39m[90mit should see item list page[39m[90m                                                                                                                                                                           [39m [90m8.96s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should see item create page[39m[90m                                                                                                                                                                         [39m [90m4.25s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should create item[39m[90m                                                                                                                                                                                  [39m [90m1.78s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should not create item with invalid category[39m[90m                                                                                                                                                        [39m [90m5.30s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should see item update page[39m[90m                                                                                                                                                                        [39m [90m12.11s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should update item[39m[90m                                                                                                                                                                                  [39m [90m6.70s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should delete item[39m[90m                                                                                                                                                                                  [39m [90m4.22s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should export items[39m[90m                                                                                                                                                                                 [39m [90m4.34s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should export selected items[39m[90m                                                                                                                                                                        [39m [90m5.60s[39m  
+  [32;1m✓[39;22m[90m [39m[90mit should import items[39m[90m                                                                                                                                                                                 [39m [90m5.41s[39m  
+^C
